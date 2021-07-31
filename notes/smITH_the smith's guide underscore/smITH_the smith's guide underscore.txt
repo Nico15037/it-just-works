@@ -1,0 +1,31 @@
+consider
+temp vars - g\__var
+g for gone very soon ofc
+
+normal vars - tURTLe_cASe
+normal variables are like turtles. they stick around for a while, but they’re always cool
+
+enums- \_\_xxcool\_casexx\_\_
+enums r, tbh, honestly v cool and ppl do NOT give them enough credit. its is time we give them the credits.
+
+functions - FUNCTIONS\_function\_name\_function\_#
+the last word being the function name + what # function it - like how many functions you’ve made so far
+its rlly cool to always see how big your project has gotten PLUS they’re automatically added to your mind-array this way
+when viewing the array, you can also know what it’s for without needing to breaking the for/repeat loop just to view the array name
+
+methods - RANDOM_SONG_LYRIC_with_method_name_randomly_in_there
+similar to functions except to how they’re different, this ensures the method name will be visibly different from its surroundings
+it’s also a fun way to really spice up your code, and it can even help you decide what song to listen to next
+
+ofc, formatting is what already comes naturally to most people
+
+```gml
+var g__yes =  true
+;
+
+if   (vARIABLe =  g__yes)
+{__xxcool_macroxx__  =
+
+FUNCTIONS_function_name_function_#(  g__yes + “true” )
+;}
+```
