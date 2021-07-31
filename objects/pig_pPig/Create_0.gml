@@ -3,6 +3,8 @@
 hSPEEd = 0
 vSPEEd = 0
 
+gRAVITy = .3
+
 I_FEEL_LIKE_AN_AUSTRONAUT_IN_THE_OCEAN_process_collisions = function() {
 	if (place_meeting(x + hSPEEd, y, pig_pSolid)) {
 		while(!place_meeting(x + sign(hSPEEd), y, pig_pSolid)) {
