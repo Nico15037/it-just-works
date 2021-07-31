@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"cheetah_cSPritePIg_nimxo","path":"sprites/cheetah_cSPritePIg_nimxo/cheetah_cSPritePIg_nimxo.yy",},"order":0,},
     {"id":{"name":"pig_pUfo","path":"objects/pig_pUfo/pig_pUfo.yy",},"order":1,},
     {"id":{"name":"pig_pPig","path":"objects/pig_pPig/pig_pPig.yy",},"order":0,},
     {"id":{"name":"pig_pPepega","path":"objects/pig_pPepega/pig_pPepega.yy",},"order":2,},
