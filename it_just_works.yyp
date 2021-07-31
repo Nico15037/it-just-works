@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"cheetah_cSolid","path":"sprites/cheetah_cSolid/cheetah_cSolid.yy",},"order":1,},
     {"id":{"name":"pig_pSolid","path":"objects/pig_pSolid/pig_pSolid.yy",},"order":2,},
+    {"id":{"name":"cheetah_cSPritePIg_nimxo","path":"sprites/cheetah_cSPritePIg_nimxo/cheetah_cSPritePIg_nimxo.yy",},"order":0,},
     {"id":{"name":"pig_pUfo","path":"objects/pig_pUfo/pig_pUfo.yy",},"order":1,},
     {"id":{"name":"pig_pPig","path":"objects/pig_pPig/pig_pPig.yy",},"order":0,},
     {"id":{"name":"cow_cMOOsic","path":"sounds/cow_cMOOsic/cow_cMOOsic.yy",},"order":0,},
