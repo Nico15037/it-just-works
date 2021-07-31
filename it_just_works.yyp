@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"pig_pUfo","path":"objects/pig_pUfo/pig_pUfo.yy",},"order":1,},
     {"id":{"name":"pig_pPig","path":"objects/pig_pPig/pig_pPig.yy",},"order":0,},
+    {"id":{"name":"pig_pPepega","path":"objects/pig_pPepega/pig_pPepega.yy",},"order":2,},
     {"id":{"name":"smITH_the smith's guide underscore","path":"notes/smITH_the smith's guide underscore/smITH_the smith's guide underscore.yy",},"order":15,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
