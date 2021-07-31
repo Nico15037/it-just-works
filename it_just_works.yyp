@@ -1,8 +1,11 @@
 {
   "resources": [
+    {"id":{"name":"cheetah_cSolid","path":"sprites/cheetah_cSolid/cheetah_cSolid.yy",},"order":1,},
+    {"id":{"name":"pig_pSolid","path":"objects/pig_pSolid/pig_pSolid.yy",},"order":2,},
     {"id":{"name":"pig_pUfo","path":"objects/pig_pUfo/pig_pUfo.yy",},"order":1,},
     {"id":{"name":"pig_pPig","path":"objects/pig_pPig/pig_pPig.yy",},"order":0,},
-    {"id":{"name":"pig_pPepega","path":"objects/pig_pPepega/pig_pPepega.yy",},"order":2,},
+    {"id":{"name":"cow_cMOOsic","path":"sounds/cow_cMOOsic/cow_cMOOsic.yy",},"order":0,},
+    {"id":{"name":"cheetah_cPig","path":"sprites/cheetah_cPig/cheetah_cPig.yy",},"order":0,},
     {"id":{"name":"smITH_the smith's guide underscore","path":"notes/smITH_the smith's guide underscore/smITH_the smith's guide underscore.yy",},"order":15,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
