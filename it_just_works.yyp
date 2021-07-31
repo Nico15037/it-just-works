@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"pig_pUfo","path":"objects/pig_pUfo/pig_pUfo.yy",},"order":1,},
+    {"id":{"name":"pig_pPig","path":"objects/pig_pPig/pig_pPig.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
