@@ -23,7 +23,7 @@
   "option_amazonfire_splash_screens_portrait": "${base_options_dir}/amazonfire/splash/portrait.png",
   "option_amazonfire_splash_time": 0,
   "option_amazonfire_launchscreen_fill": 0,
-  "option_amazonfire_splashscreen_background_colour": 255,
+  "option_amazonfire_splashscreen_background_colour": 4278190080,
   "option_amazonfire_tv_banner": "${base_options_dir}/amazonfire/tv_banner.png",
   "option_amazonfire_interpolate_pixels": false,
   "option_amazonfire_screen_depth": 0,

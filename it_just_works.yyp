@@ -1,14 +1,16 @@
 {
   "resources": [
     {"id":{"name":"cheetah_cSolid","path":"sprites/cheetah_cSolid/cheetah_cSolid.yy",},"order":1,},
+    {"id":{"name":"xx__BULLEtS__xx","path":"scripts/xx__BULLEtS__xx/xx__BULLEtS__xx.yy",},"order":0,},
     {"id":{"name":"pig_pSolid","path":"objects/pig_pSolid/pig_pSolid.yy",},"order":2,},
     {"id":{"name":"cheetah_cStuff","path":"sprites/cheetah_cStuff/cheetah_cStuff.yy",},"order":2,},
-    {"id":{"name":"cheetah_Bullet","path":"sprites/cheetah_Bullet/cheetah_Bullet.yy",},"order":4,},
+    {"id":{"name":"cheetah_cBullet","path":"sprites/cheetah_cBullet/cheetah_cBullet.yy",},"order":4,},
     {"id":{"name":"cheetah_cSPritePIg_nimxo","path":"sprites/cheetah_cSPritePIg_nimxo/cheetah_cSPritePIg_nimxo.yy",},"order":0,},
     {"id":{"name":"pig_pUfo","path":"objects/pig_pUfo/pig_pUfo.yy",},"order":1,},
     {"id":{"name":"cheetah_cUfo","path":"sprites/cheetah_cUfo/cheetah_cUfo.yy",},"order":3,},
     {"id":{"name":"pig_pPig","path":"objects/pig_pPig/pig_pPig.yy",},"order":0,},
     {"id":{"name":"cow_cMOOsic","path":"sounds/cow_cMOOsic/cow_cMOOsic.yy",},"order":0,},
+    {"id":{"name":"pig_pBoss","path":"objects/pig_pBoss/pig_pBoss.yy",},"order":3,},
     {"id":{"name":"cheetah_cPig","path":"sprites/cheetah_cPig/cheetah_cPig.yy",},"order":0,},
     {"id":{"name":"smITH_the smith's guide underscore","path":"notes/smITH_the smith's guide underscore/smITH_the smith's guide underscore.yy",},"order":15,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
