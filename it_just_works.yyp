@@ -2,8 +2,11 @@
   "resources": [
     {"id":{"name":"cheetah_cSolid","path":"sprites/cheetah_cSolid/cheetah_cSolid.yy",},"order":1,},
     {"id":{"name":"pig_pSolid","path":"objects/pig_pSolid/pig_pSolid.yy",},"order":2,},
+    {"id":{"name":"cheetah_cStuff","path":"sprites/cheetah_cStuff/cheetah_cStuff.yy",},"order":2,},
+    {"id":{"name":"cheetah_Bullet","path":"sprites/cheetah_Bullet/cheetah_Bullet.yy",},"order":4,},
     {"id":{"name":"cheetah_cSPritePIg_nimxo","path":"sprites/cheetah_cSPritePIg_nimxo/cheetah_cSPritePIg_nimxo.yy",},"order":0,},
     {"id":{"name":"pig_pUfo","path":"objects/pig_pUfo/pig_pUfo.yy",},"order":1,},
+    {"id":{"name":"cheetah_cUfo","path":"sprites/cheetah_cUfo/cheetah_cUfo.yy",},"order":3,},
     {"id":{"name":"pig_pPig","path":"objects/pig_pPig/pig_pPig.yy",},"order":0,},
     {"id":{"name":"cow_cMOOsic","path":"sounds/cow_cMOOsic/cow_cMOOsic.yy",},"order":0,},
     {"id":{"name":"cheetah_cPig","path":"sprites/cheetah_cPig/cheetah_cPig.yy",},"order":0,},

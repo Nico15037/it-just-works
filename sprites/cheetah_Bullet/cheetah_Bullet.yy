@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 14,
+  "bbox_right": 3,
   "bbox_top": 0,
-  "bbox_bottom": 22,
+  "bbox_bottom": 3,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 15,
-  "height": 23,
+  "width": 4,
+  "height": 4,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"05a04021-2118-4201-8ee1-4f67cc14978b","path":"sprites/cheetah_cPig/cheetah_cPig.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"05a04021-2118-4201-8ee1-4f67cc14978b","path":"sprites/cheetah_cPig/cheetah_cPig.yy",},"LayerId":{"name":"924358f6-0b24-4d03-a0c8-c971ef19c9b9","path":"sprites/cheetah_cPig/cheetah_cPig.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"cheetah_cPig","path":"sprites/cheetah_cPig/cheetah_cPig.yy",},"resourceVersion":"1.0","name":"05a04021-2118-4201-8ee1-4f67cc14978b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d9ae9236-559b-4d0a-8fc2-a7afe562e34a","path":"sprites/cheetah_Bullet/cheetah_Bullet.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d9ae9236-559b-4d0a-8fc2-a7afe562e34a","path":"sprites/cheetah_Bullet/cheetah_Bullet.yy",},"LayerId":{"name":"196d93ac-23c4-428f-b36b-2f348a997ff4","path":"sprites/cheetah_Bullet/cheetah_Bullet.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"cheetah_Bullet","path":"sprites/cheetah_Bullet/cheetah_Bullet.yy",},"resourceVersion":"1.0","name":"d9ae9236-559b-4d0a-8fc2-a7afe562e34a","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"cheetah_cPig","path":"sprites/cheetah_cPig/cheetah_cPig.yy",},
+    "spriteId": {"name":"cheetah_Bullet","path":"sprites/cheetah_Bullet/cheetah_Bullet.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"2d1979d6-836b-40c8-a453-b37d37e7587a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"05a04021-2118-4201-8ee1-4f67cc14978b","path":"sprites/cheetah_cPig/cheetah_cPig.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5bbea001-a6b3-4f8f-b163-d6bd8404a8dc","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d9ae9236-559b-4d0a-8fc2-a7afe562e34a","path":"sprites/cheetah_Bullet/cheetah_Bullet.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -54,18 +54,18 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 7,
-    "yorigin": 11,
+    "xorigin": 2,
+    "yorigin": 2,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"cheetah_cPig","path":"sprites/cheetah_cPig/cheetah_cPig.yy",},
+    "parent": {"name":"cheetah_Bullet","path":"sprites/cheetah_Bullet/cheetah_Bullet.yy",},
     "resourceVersion": "1.3",
-    "name": "cheetah_cPig",
+    "name": "cheetah_Bullet",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"924358f6-0b24-4d03-a0c8-c971ef19c9b9","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"196d93ac-23c4-428f-b36b-2f348a997ff4","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "cheetah_cPig",
+  "name": "cheetah_Bullet",
   "tags": [],
   "resourceType": "GMSprite",
 }

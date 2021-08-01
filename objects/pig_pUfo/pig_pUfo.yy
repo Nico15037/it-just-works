@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "cheetah_cUfo",
+    "path": "sprites/cheetah_cUfo/cheetah_cUfo.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

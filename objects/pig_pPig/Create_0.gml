@@ -24,3 +24,9 @@ I_FEEL_LIKE_AN_AUSTRONAUT_IN_THE_OCEAN_process_collisions = function() {
 	
 	y += vSPEEd
 }
+
+sHIELDTOGGLe = "false"
+;
+
+sHIELDTIMEr = room_speed*1
+;
